@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SampleMutlipleScreen</string>
+    <string name="screen_main">Main Screen</string>
+    <string name="screen_one">Screen 1</string>
+    <string name="screen_two">Screen 2</string>
+    <string name="screen_three">Screen 3</string>
+    <string name="screen_four">Screen 4</string>
+    <string name="screen_five">Screen 5</string>
+</resources>
